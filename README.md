@@ -1,4 +1,4 @@
-##Gabriel Maciel
+# Gabriel Maciel
 
 Olá!
 
@@ -12,11 +12,28 @@ Fora do trabalho, sou corredor, e a disciplina da corrida reflete diretamente na
 
 **Background in:**  SQL  | Python | Power BI
 
-**Links:** [LinkedIn](https://www.linkedin.com/in/gabrielmaciel25/)
+**Links:** 
 
-**Projetos Acadêmicos:**
+• [LinkedIn](https://www.linkedin.com/in/gabrielmaciel25/)
 
-• Durante a primeira fase da minha pós-graduação em Data Analytics pela FIAP, desenvolvi um projeto voltado à análise estratégica das exportações do setor vitivinicultor do Rio Grande do Sul. O estudo teve como foco principal identificar oportunidades de crescimento e propor recomendações baseadas em dados para ampliar o market share brasileiro no mercado global de uvas e seus derivados.
-Utilizando técnicas de análise exploratória, cruzamento de indicadores socioeconômicos e visualizações em Power BI, o projeto avaliou o desempenho de exportações ao longo dos últimos 15 anos, destacando países com maior potencial de rentabilidade e estabilidade comercial. A abordagem combinou inteligência de mercado com insights geopolíticos, propondo estratégias segmentadas para produtos como espumantes, vinhos de mesa, suco de uva e uvas frescas.
-O resultado foi uma entrega robusta, que rendeu nota 90/100 e consolidou os fundamentos da minha formação em análise de dados aplicada à tomada de decisão estratégica
-link do dash: [Dash_TechChallenge](https://lnkd.in/ek73Qcav)
+
+# Projetos Acadêmicos:
+
+Durante a primeira fase da minha pós-graduação em Data Analytics pela FIAP, desenvolvi um projeto voltado à análise estratégica das exportações do setor vitivinicultor do Rio Grande do Sul. 
+
+O projeto teve como foco principal identificar oportunidades de crescimento e propor recomendações baseadas em dados para ampliar o market share brasileiro no mercado global de uvas e seus derivados.
+
+O que foi realizado:
+
+• Análise exploratória de dados
+
+• Cruzamento de indicadores socioeconômicos
+
+• Visualizações interativas com Power BI [Visualização_Pbi](https://lnkd.in/ek73Qcav)
+
+• Avaliação de exportações nos últimos 15 anos- Mapeamento de países com maior potencial comercial
+
+• Integração de inteligência de mercado e contexto geopolítico
+
+• Estratégias segmentadas para: Espumantes, Vinhos de mesa, Suco de uva, Uvas frescas
+
