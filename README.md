@@ -9,6 +9,7 @@ Minha experiência inclui atuação em ambientes de monitoramento/CRM, com abert
 Fora do trabalho, sou corredor, e a disciplina da corrida reflete diretamente na minha forma de encarar projetos, com foco, consistência e busca constante por evolução.
 
 **Background in:**  SQL  | Python | Power BI
+
 **Links:** [LinkedIn](https://www.linkedin.com/in/gabrielmaciel25/)
 
 **Projetos Acadêmicos:**
