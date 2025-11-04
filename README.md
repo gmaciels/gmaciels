@@ -26,14 +26,20 @@ O projeto teve como foco principal identificar oportunidades de crescimento e pr
 O que foi realizado:
 
 • Análise exploratória de dados
-
 • Cruzamento de indicadores socioeconômicos
-
 • Visualizações interativas com Power BI [Visualização_Pbi](https://lnkd.in/ek73Qcav)
-
 • Avaliação de exportações nos últimos 15 anos- Mapeamento de países com maior potencial comercial
-
 • Integração de inteligência de mercado e contexto geopolítico
-
 • Estratégias segmentadas para: Espumantes, Vinhos de mesa, Suco de uva, Uvas frescas
+Previsão de Tendência do IBOVESPA (Tech Challenge – Pós-graduação)
+
+Durante a segunda fase da minha pós-graduação em Data Analytics pela FIAP, desenvolvi um projeto voltado à previsão de altas e baixas do índice IBOVESPA com foco em apoiar decisões estratégicas de investimentos.
+
+O que foi realizado:
+
+• Análise exploratória de séries históricas de 2015 a 2025
+• Desenvolvimento de modelo preditivo em Machine Learning (XGBoost)
+• Validação temporal para garantir a acurácia do modelo em diferentes períodos
+• Identificação de padrões de tendência e volatilidade do mercado
+• Geração de insights acionáveis para suporte a estratégias financeiras
 
