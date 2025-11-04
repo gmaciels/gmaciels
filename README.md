@@ -19,6 +19,8 @@ Fora do trabalho, sou corredor, e a disciplina da corrida reflete diretamente na
 
 # Projetos Acadêmicos:
 
+## Análise das Exportações da Vitivinicultura do RS (Tech Challenge – Pós-graduação)
+
 Durante a primeira fase da minha pós-graduação em Data Analytics pela FIAP, desenvolvi um projeto voltado à análise estratégica das exportações do setor vitivinicultor do Rio Grande do Sul. 
 
 O projeto teve como foco principal identificar oportunidades de crescimento e propor recomendações baseadas em dados para ampliar o market share brasileiro no mercado global de uvas e seus derivados.
